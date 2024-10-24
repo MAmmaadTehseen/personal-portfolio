@@ -1195,6 +1195,7 @@ textarea.form-input::-webkit-resizer {
 
   .info-content .name {
     margin-bottom: 15px;
+    margin: 10px;
   }
 
   .info-content .title {
@@ -1664,7 +1665,8 @@ textarea.form-input::-webkit-resizer {
   }
 
   .avatar-box img {
-    width: 150px;
+    width: 180px;
+    border-radius: 16px;
   }
 
   .info-content .name {
